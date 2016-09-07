@@ -13,3 +13,6 @@
 [submodule "bundle/mru"]
 	path = bundle/mru
 	url = git@github.com:yegappan/mru
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git@github.com:scrooloose/nerdtree
