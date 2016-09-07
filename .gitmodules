@@ -40,3 +40,6 @@
 [submodule "bundle/javascript-lib"]
 	path = bundle/javascript-lib
 	url = git@github.com:crusoexia/vim-javascript-lib
+[submodule "bundle/json"]
+	path = bundle/json
+	url = git@github.com:elzr/vim-json
