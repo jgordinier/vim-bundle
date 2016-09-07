@@ -58,3 +58,6 @@
 [submodule "bundle/repeat"]
 	path = bundle/repeat
 	url = git@github.com:tpope/vim-repeat
+[submodule "bundle/airline-themes"]
+	path = bundle/airline-themes
+	url = git@github.com:vim-airline/vim-airline-themes
