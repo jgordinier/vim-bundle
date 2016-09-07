@@ -37,3 +37,6 @@
 [submodule "bundle/javascript"]
 	path = bundle/javascript
 	url = git@github.com:pangloss/vim-javascript
+[submodule "bundle/javascript-lib"]
+	path = bundle/javascript-lib
+	url = git@github.com:crusoexia/vim-javascript-lib
