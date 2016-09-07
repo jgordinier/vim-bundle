@@ -52,3 +52,6 @@
 [submodule "bundle/sensible"]
 	path = bundle/sensible
 	url = git@github.com:tpope/vim-sensible
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = git@github.com:tpope/vim-surround
