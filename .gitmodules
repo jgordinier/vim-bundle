@@ -7,3 +7,6 @@
 [submodule "bundle/haskell"]
 	path = bundle/haskell
 	url = git@github.com:neovimhaskell/haskell-vim
+[submodule "bundle/limelight"]
+	path = bundle/limelight
+	url = git@github.com:junegunn/limelight.vim
