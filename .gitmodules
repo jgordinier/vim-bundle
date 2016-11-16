@@ -67,3 +67,6 @@
 [submodule "bundle/goyo"]
 	path = bundle/goyo
 	url = git@github.com:junegunn/goyo.vim
+[submodule "bundle/commentary"]
+	path = bundle/commentary
+	url = git@github.com:tpope/vim-commentary
