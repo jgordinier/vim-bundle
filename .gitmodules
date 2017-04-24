@@ -73,3 +73,12 @@
 [submodule "bundle/purescript"]
 	path = bundle/purescript
 	url = git@github.com:raichoo/purescript-vim
+[submodule "bundle/lightline"]
+	path = bundle/lightline
+	url = git@github.com:itchyny/lightline.vim
+[submodule "bundle/ack"]
+	path = bundle/ack
+	url = git@github.com:mileszs/ack.vim
+[submodule "bundle/seoul256"]
+	path = bundle/seoul256
+	url = github.com:junegunn/seoul256.vim
