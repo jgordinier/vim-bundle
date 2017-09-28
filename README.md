@@ -1,3 +1,3 @@
 # vim-bundle
 
-Submodoles for my vim setup
+Submodules for my vim setup
