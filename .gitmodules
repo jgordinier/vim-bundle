@@ -124,3 +124,6 @@
 [submodule "bundle/jsx"]
 	path = bundle/jsx
 	url = https://github.com/mxw/vim-jsx
+[submodule "bundle/tern"]
+	path = bundle/tern
+	url = https://github.com/ternjs/tern_for_vim
