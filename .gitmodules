@@ -1,3 +1,6 @@
+[submodule "bundle/abolish"]
+  path = bundle/abolish
+  url = https://github.com/tpope/vim-abolish
 [submodule "bundle/ack"]
   path = bundle/ack
   url = https://github.com/mileszs/ack.vim
@@ -13,9 +16,21 @@
 [submodule "bundle/commentary"]
   path = bundle/commentary
   url = https://github.com/tpope/vim-commentary
+[submodule "bundle/css-color"]
+  path = bundle/css-color
+  url = https://github.com/ap/vim-css-color
+[submodule "bundle/css3-syntax"]
+  path = bundle/css3-syntax
+  url = https://github.com/hail2u/vim-css3-syntax
+[submodule "bundle/editor-config"]
+  path = bundle/editor-config
+  url = https://github.com/editorconfig/editorconfig-vim
 [submodule "bundle/fugitive"]
   path = bundle/fugitive
   url = https://github.com/tpope/vim-fugitive
+[submodule "bundle/fzf"]
+  path = bundle/fzf
+  url = https://github.com/junegunn/fzf.vim
 [submodule "bundle/gitgutter"]
   path = bundle/gitgutter
   url = https://github.com/airblade/vim-gitgutter
@@ -25,6 +40,18 @@
 [submodule "bundle/haskell"]
   path = bundle/haskell
   url = https://github.com/neovimhaskell/haskell-vim
+[submodule "bundle/haskell-conceal"]
+  path = bundle/haskell-conceal
+  url = https://github.com/Twinside/vim-haskellConceal.git
+[submodule "bundle/haskell-fold"]
+  path = bundle/haskell-fold
+  url = https://github.com/Twinside/vim-haskellFold.git
+[submodule "bundle/haskell-indent"]
+  path = bundle/haskell-indent
+  url = https://github.com/itchyny/vim-haskell-indent
+[submodule "bundle/haskell-proto"]
+  path = bundle/haskell-proto
+  url = https://github.com/sdiehl/haskell-vim-proto
 [submodule "bundle/javascript"]
   path = bundle/javascript
   url = https://github.com/pangloss/vim-javascript
@@ -37,6 +64,9 @@
 [submodule "bundle/json"]
   path = bundle/json
   url = https://github.com/elzr/vim-json
+[submodule "bundle/jsx"]
+  path = bundle/jsx
+  url = https://github.com/mxw/vim-jsx
 [submodule "bundle/less"]
   path = bundle/less
   url = https://github.com/groenewege/vim-less
@@ -49,9 +79,18 @@
 [submodule "bundle/mru"]
   path = bundle/mru
   url = https://github.com/yegappan/mru
+[submodule "bundle/neco-ghc"]
+  path = bundle/neco-ghc
+  url = https://github.com/eagletmt/neco-ghc
+[submodule "bundle/neocomplete"]
+  path = bundle/neocomplete
+  url = https://github.com/Shougo/neocomplete.vim
 [submodule "bundle/nerdtree"]
   path = bundle/nerdtree
   url = https://github.com/scrooloose/nerdtree
+[submodule "bundle/pandoc-syntax"]
+  path = bundle/pandoc-syntax
+  url = https://github.com/vim-pandoc/vim-pandoc-syntax
 [submodule "bundle/purescript"]
   path = bundle/purescript
   url = https://github.com/raichoo/purescript-vim
@@ -85,51 +124,12 @@
 [submodule "bundle/tagbar"]
   path = bundle/tagbar
   url = https://github.com/majutsushi/tagbar
-[submodule "bundle/fzf"]
-	path = bundle/fzf
-	url = https://github.com/junegunn/fzf.vim
-[submodule "bundle/abolish"]
-	path = bundle/abolish
-	url = https://github.com/tpope/vim-abolish
-[submodule "bundle/css-color"]
-	path = bundle/css-color
-	url = https://github.com/ap/vim-css-color
-[submodule "bundle/haskell-indent"]
-	path = bundle/haskell-indent
-	url = https://github.com/itchyny/vim-haskell-indent
-[submodule "bundle/haskell-proto"]
-	path = bundle/haskell-proto
-	url = https://github.com/sdiehl/haskell-vim-proto
-[submodule "bundle/neco-ghc"]
-	path = bundle/neco-ghc
-	url = https://github.com/eagletmt/neco-ghc
-[submodule "bundle/neocomplete"]
-	path = bundle/neocomplete
-	url = https://github.com/Shougo/neocomplete.vim
-[submodule "bundle/pandoc-syntax"]
-	path = bundle/pandoc-syntax
-	url = https://github.com/vim-pandoc/vim-pandoc-syntax
-[submodule "bundle/vimproc"]
-	path = bundle/vimproc
-	url = https://github.com/Shougo/vimproc
-[submodule "bundle/css3-syntax"]
-	path = bundle/css3-syntax
-	url = https://github.com/hail2u/vim-css3-syntax
-[submodule "bundle/vim-gradle"]
-	path = bundle/vim-gradle
-	url = https://github.com/tfnico/vim-gradle.git
-[submodule "bundle/editor-config"]
-	path = bundle/editor-config
-	url = https://github.com/editorconfig/editorconfig-vim
-[submodule "bundle/jsx"]
-	path = bundle/jsx
-	url = https://github.com/mxw/vim-jsx
 [submodule "bundle/tern"]
-	path = bundle/tern
-	url = https://github.com/ternjs/tern_for_vim
-[submodule "bundle/haskell-fold"]
-	path = bundle/haskell-fold
-	url = https://github.com/Twinside/vim-haskellFold.git
-[submodule "bundle/haskell-conceal"]
-	path = bundle/haskell-conceal
-	url = https://github.com/Twinside/vim-haskellConceal.git
+  path = bundle/tern
+  url = https://github.com/ternjs/tern_for_vim
+[submodule "bundle/vim-gradle"]
+  path = bundle/vim-gradle
+  url = https://github.com/tfnico/vim-gradle.git
+[submodule "bundle/vimproc"]
+  path = bundle/vimproc
+  url = https://github.com/Shougo/vimproc
