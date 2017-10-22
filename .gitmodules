@@ -127,9 +127,6 @@
 [submodule "bundle/tagbar"]
   path = bundle/tagbar
   url = https://github.com/majutsushi/tagbar
-[submodule "bundle/tern"]
-  path = bundle/tern
-  url = https://github.com/ternjs/tern_for_vim
 [submodule "bundle/vim-gradle"]
   path = bundle/vim-gradle
   url = https://github.com/tfnico/vim-gradle.git
