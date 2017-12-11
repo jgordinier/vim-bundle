@@ -1,135 +1,129 @@
-[submodule "bundle/abolish"]
+[submodule "abolish"]
   path = bundle/abolish
   url = https://github.com/tpope/vim-abolish
-[submodule "bundle/ack"]
+[submodule "ack"]
   path = bundle/ack
   url = https://github.com/mileszs/ack.vim
-[submodule "bundle/ag"]
+[submodule "ag"]
   path = bundle/ag
   url = https://github.com/rking/ag.vim
-[submodule "bundle/airline"]
+[submodule "airline"]
   path = bundle/airline
   url = https://github.com/bling/vim-airline
-[submodule "bundle/airline-themes"]
+[submodule "airline-themes"]
   path = bundle/airline-themes
   url = https://github.com/vim-airline/vim-airline-themes
-[submodule "bundle/commentary"]
+[submodule "commentary"]
   path = bundle/commentary
   url = https://github.com/tpope/vim-commentary
-[submodule "bundle/css-color"]
+[submodule "css-color"]
   path = bundle/css-color
   url = https://github.com/ap/vim-css-color
-[submodule "bundle/css3-syntax"]
+[submodule "css3-syntax"]
   path = bundle/css3-syntax
   url = https://github.com/hail2u/vim-css3-syntax
-[submodule "bundle/editor-config"]
-  path = bundle/editor-config
-  url = https://github.com/editorconfig/editorconfig-vim
-[submodule "bundle/fugitive"]
+[submodule "docker"]
+  path = bundle/docker
+  url = https://github.com/ekalinin/Dockerfile.vim
+[submodule "fugitive"]
   path = bundle/fugitive
   url = https://github.com/tpope/vim-fugitive
-[submodule "bundle/fzf"]
+[submodule "fzf"]
   path = bundle/fzf
   url = https://github.com/junegunn/fzf.vim
-[submodule "bundle/gitgutter"]
+[submodule "gitgutter"]
   path = bundle/gitgutter
   url = https://github.com/airblade/vim-gitgutter
-[submodule "bundle/goyo"]
+[submodule "goyo"]
   path = bundle/goyo
   url = https://github.com/junegunn/goyo.vim
-[submodule "bundle/haskell"]
+[submodule "haskell"]
   path = bundle/haskell
   url = https://github.com/neovimhaskell/haskell-vim
-[submodule "bundle/haskell-conceal"]
+[submodule "haskell-conceal"]
   path = bundle/haskell-conceal
-  url = https://github.com/Twinside/vim-haskellConceal.git
-[submodule "bundle/haskell-fold"]
+  url = https://github.com/Twinside/vim-haskellConceal
+[submodule "haskell-fold"]
   path = bundle/haskell-fold
-  url = https://github.com/Twinside/vim-haskellFold.git
-[submodule "bundle/haskell-indent"]
+  url = https://github.com/Twinside/vim-haskellFold
+[submodule "haskell-indent"]
   path = bundle/haskell-indent
   url = https://github.com/itchyny/vim-haskell-indent
-[submodule "bundle/haskell-proto"]
+[submodule "haskell-proto"]
   path = bundle/haskell-proto
   url = https://github.com/sdiehl/haskell-vim-proto
-[submodule "bundle/javascript"]
+[submodule "javascript"]
   path = bundle/javascript
   url = https://github.com/pangloss/vim-javascript
-[submodule "bundle/javascript-lib"]
+[submodule "javascript-lib"]
   path = bundle/javascript-lib
   url = https://github.com/crusoexia/vim-javascript-lib
-[submodule "bundle/jellybeans"]
+[submodule "jellybeans"]
   path = bundle/jellybeans
-  url = https://github.com/nanotech/jellybeans.vim.git
-[submodule "bundle/json"]
+  url = https://github.com/nanotech/jellybeans.vim
+[submodule "json"]
   path = bundle/json
   url = https://github.com/elzr/vim-json
-[submodule "bundle/jsx"]
+[submodule "jsx"]
   path = bundle/jsx
   url = https://github.com/mxw/vim-jsx
-[submodule "bundle/less"]
+[submodule "less"]
   path = bundle/less
   url = https://github.com/groenewege/vim-less
-[submodule "bundle/lightline"]
+[submodule "lightline"]
   path = bundle/lightline
   url = https://github.com/itchyny/lightline.vim
-[submodule "bundle/limelight"]
+[submodule "limelight"]
   path = bundle/limelight
   url = https://github.com/junegunn/limelight.vim
-[submodule "bundle/mru"]
+[submodule "mru"]
   path = bundle/mru
   url = https://github.com/yegappan/mru
-[submodule "bundle/neco-ghc"]
+[submodule "neco-ghc"]
   path = bundle/neco-ghc
   url = https://github.com/eagletmt/neco-ghc
-[submodule "bundle/neocomplete"]
+[submodule "neocomplete"]
   path = bundle/neocomplete
   url = https://github.com/Shougo/neocomplete.vim
-[submodule "bundle/nerdtree"]
+[submodule "nerdtree"]
   path = bundle/nerdtree
   url = https://github.com/scrooloose/nerdtree
-[submodule "bundle/pandoc"]
+[submodule "pandoc"]
   path = bundle/pandoc
   url = https://github.com/vim-pandoc/vim-pandoc
-[submodule "bundle/pandoc-syntax"]
+[submodule "pandoc-syntax"]
   path = bundle/pandoc-syntax
   url = https://github.com/vim-pandoc/vim-pandoc-syntax
-[submodule "bundle/purescript"]
+[submodule "purescript"]
   path = bundle/purescript
   url = https://github.com/raichoo/purescript-vim
-[submodule "bundle/repeat"]
+[submodule "repeat"]
   path = bundle/repeat
   url = https://github.com/tpope/vim-repeat
-[submodule "bundle/ruby"]
+[submodule "ruby"]
   path = bundle/ruby
   url = https://github.com/vim-ruby/vim-ruby
-[submodule "bundle/sensible"]
+[submodule "sensible"]
   path = bundle/sensible
   url = https://github.com/tpope/vim-sensible
-[submodule "bundle/seoul256"]
+[submodule "seoul256"]
   path = bundle/seoul256
   url = https://github.com/junegunn/seoul256.vim
-[submodule "bundle/solarized"]
+[submodule "solarized"]
   path = bundle/solarized
   url = https://github.com/altercation/vim-colors-solarized
-[submodule "bundle/supertab"]
+[submodule "supertab"]
   path = bundle/supertab
   url = https://github.com/ervandew/supertab
-[submodule "bundle/surround"]
+[submodule "surround"]
   path = bundle/surround
   url = https://github.com/tpope/vim-surround
-[submodule "bundle/syntastic"]
+[submodule "syntastic"]
   path = bundle/syntastic
   url = https://github.com/scrooloose/syntastic
-[submodule "bundle/tabular"]
+[submodule "tabular"]
   path = bundle/tabular
   url = https://github.com/godlygeek/tabular
-[submodule "bundle/tagbar"]
-  path = bundle/tagbar
-  url = https://github.com/majutsushi/tagbar
-[submodule "bundle/vim-gradle"]
-  path = bundle/vim-gradle
-  url = https://github.com/tfnico/vim-gradle.git
-[submodule "bundle/vimproc"]
+[submodule "vimproc"]
   path = bundle/vimproc
   url = https://github.com/Shougo/vimproc
