@@ -22,6 +22,9 @@
 [submodule "css3-syntax"]
   path = bundle/css3-syntax
   url = https://github.com/hail2u/vim-css3-syntax
+[submodule "csv"]
+  path = bundle/csv
+  url = https://github.com/chrisbra/csv.vim
 [submodule "docker"]
   path = bundle/docker
   url = https://github.com/ekalinin/Dockerfile.vim
@@ -37,6 +40,9 @@
 [submodule "goyo"]
   path = bundle/goyo
   url = https://github.com/junegunn/goyo.vim
+[submodule "gnupg"]
+  path = bundle/gnupg
+  url = https://github.com/jamessan/vim-gnupg
 [submodule "haskell"]
   path = bundle/haskell
   url = https://github.com/neovimhaskell/haskell-vim
@@ -103,6 +109,9 @@
 [submodule "ruby"]
   path = bundle/ruby
   url = https://github.com/vim-ruby/vim-ruby
+[submodule "rust"]
+  path = bundle/rust
+  url = https://github.com/rust-lang/rust.vim
 [submodule "sensible"]
   path = bundle/sensible
   url = https://github.com/tpope/vim-sensible
@@ -127,3 +136,12 @@
 [submodule "vimproc"]
   path = bundle/vimproc
   url = https://github.com/Shougo/vimproc
+[submodule "haskell-conceal-plus"]
+	path = bundle/haskell-conceal-plus
+	url = https://github.com/enomsg/vim-haskellConcealPlus
+[submodule "bundle/snippets"]
+	path = bundle/snippets
+	url = https://github.com/honza/vim-snippets.git
+[submodule "bundle/typescript-vim"]
+	path = bundle/typescript-vim
+	url = https://github.com/leafgarland/typescript-vim.git
