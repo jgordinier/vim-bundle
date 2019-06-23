@@ -49,6 +49,9 @@
 [submodule "haskell-conceal"]
   path = bundle/haskell-conceal
   url = https://github.com/Twinside/vim-haskellConceal
+[submodule "haskell-conceal-plus"]
+  path = bundle/haskell-conceal-plus
+  url = https://github.com/enomsg/vim-haskellConcealPlus
 [submodule "haskell-fold"]
   path = bundle/haskell-fold
   url = https://github.com/Twinside/vim-haskellFold
@@ -118,6 +121,9 @@
 [submodule "seoul256"]
   path = bundle/seoul256
   url = https://github.com/junegunn/seoul256.vim
+[submodule "snippets"]
+  path = bundle/snippets
+  url = https://github.com/honza/vim-snippets.git
 [submodule "solarized"]
   path = bundle/solarized
   url = https://github.com/altercation/vim-colors-solarized
@@ -133,15 +139,12 @@
 [submodule "tabular"]
   path = bundle/tabular
   url = https://github.com/godlygeek/tabular
+[submodule "terraform"]
+  path = bundle/terraform
+  url = https://github.com/hashivim/vim-terraform.git
+[submodule "typescript-vim"]
+  path = bundle/typescript-vim
+  url = https://github.com/leafgarland/typescript-vim.git
 [submodule "vimproc"]
   path = bundle/vimproc
   url = https://github.com/Shougo/vimproc
-[submodule "haskell-conceal-plus"]
-	path = bundle/haskell-conceal-plus
-	url = https://github.com/enomsg/vim-haskellConcealPlus
-[submodule "bundle/snippets"]
-	path = bundle/snippets
-	url = https://github.com/honza/vim-snippets.git
-[submodule "bundle/typescript-vim"]
-	path = bundle/typescript-vim
-	url = https://github.com/leafgarland/typescript-vim.git
